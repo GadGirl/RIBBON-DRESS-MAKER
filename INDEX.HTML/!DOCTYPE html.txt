@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ribbon Dress Maker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#custom-orders">Custom Orders</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+            </ul>
+        </nav>
+        <h1>Ribbon Dress Maker</h1>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to Ribbon Dress Maker</h2>
+        <p>Discover the beauty and elegance of our handcrafted ribbon dresses.</p>
+        <div class="featured-products">
+            <!-- Add featured product images and links here -->
+        </div>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are passionate about creating beautiful ribbon dresses...</p>
+        <!-- Add more content about the business -->
+    </section>
+
+    <section id="products">
+        <h2>Our Products</h2>
+        <div class="product-grid">
+            <!-- Add product images, descriptions, and prices here -->
+        </div>
+    </section>
+
+    <section id="custom-orders">
+        <h2>Custom Orders</h2>
+        <p>Looking for something unique? Place a custom order...</p>
+        <form>
+            <!-- Add form fields for custom orders -->
+        </form>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form>
+            <!-- Add contact form fields -->
+        </form>
+        <p>Email: info@ribbondressmaker.com</p>
+        <p>Phone: (123) 456-7890</p>
+        <p>Address: 123 Ribbon Lane, Dress City, DC 12345</p>
+    </section>
+
+    <section id="testimonials">
+        <h2>Testimonials</h2>
+        <div class="testimonial">
+            <!-- Add customer reviews -->
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Ribbon Dress Maker. All rights reserved.</p>
+    </footer>
+</body>
+</html>
